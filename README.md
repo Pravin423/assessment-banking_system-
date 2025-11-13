@@ -63,6 +63,10 @@ Account Table
 <img width="604" height="184" alt="image" src="https://github.com/user-attachments/assets/1ddee7d5-cba2-4445-bf27-e4f80bb90746" />
 
 
+
+
+
+
 Authentication Flow------------
 
 On successful login, a 36-character access token is generated.
@@ -71,17 +75,17 @@ Customers and bankers have separate login pages.
 
 Features----------
 
-For Banker
-Secure login with role-based access
-View all customer accounts
-View each customer’s transaction history
+For Banker->
+Secure login with role-based access,
+View all customer accounts,
+View each customer’s transaction history.
 
-For Customer
-Login using email and password
-View all past transactions
-Deposit and withdraw money via popup
-Check balance in real-time
-“Insufficient Funds” validation for withdrawals
+For Customer->
+Login using email and password,
+View all past transactions,
+Deposit and withdraw money via popup,
+Check balance in real-time,
+“Insufficient Funds” validation for withdrawals.
 
 
 RECORDING LINK
