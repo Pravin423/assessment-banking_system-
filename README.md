@@ -1,4 +1,4 @@
-<img width="1918" height="1078" alt="CustomerWith1" src="https://github.com/user-attachments/assets/dd899da9-889b-44aa-8175-59091c921109" />Simple Banking System
+Simple Banking System
 
 A full-stack Banking Management System built using Node.js, React.js, and MySQL, following the MVC (Model–View–Controller) architecture.
 This system allows customers to log in, deposit/withdraw money, and view transactions, while bankers can manage and review all customer accounts.
